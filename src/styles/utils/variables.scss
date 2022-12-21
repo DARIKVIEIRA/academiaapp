@@ -1,0 +1,20 @@
+// images
+$base_img: '../images';
+$base_fonts: '../fonts';
+
+// fonts
+$ProximaNovaBold: 'ProximaNova-Bold';
+$ProximaNovaBlack: 'ProximaNova-Black';
+
+// colors
+$white: #fff;
+$black: #000;
+
+// media queries
+$mq: (
+  'sm': 640px,
+  'md': 768px,
+  'lg': 1024px,
+  'xl': 1280px,
+  '2xl': 1536px,
+);

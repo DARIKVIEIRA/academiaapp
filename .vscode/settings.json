@@ -1,0 +1,20 @@
+{
+  "files.eol": "\n",
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "emmet.includeLanguages": {
+    "nunjucks": "html"
+  }
+}
